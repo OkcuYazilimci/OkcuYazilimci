@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning C#, memory management also microsoft azure
 - 📫 How to reach me: www.linkedin.com/in/umut-uygun/
 
-![Guncel_CV](https://github.com/OkcuYazilimci/OkcuYazilimci/assets/113436899/e2a6fe7c-f632-4596-881a-a703e12074ac)
+
+![UMUT_CV](https://github.com/OkcuYazilimci/OkcuYazilimci/assets/113436899/4650a3b8-ffa2-4959-8556-60d3f7fac5a8)
